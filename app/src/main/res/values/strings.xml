@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="newStr">这是从2到1的文字</string>
+
+</resources>
